@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MyCar/TestSence.unity
+  isLoaded: 1
+  isActive: 1
